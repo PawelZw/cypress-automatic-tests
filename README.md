@@ -1,4 +1,4 @@
-# Cypress-tests 
+# Cypress-automatic-tests 
 https://www.centrumnautica.pl automatic tests
 
 🔥 Automated tests of the www.centrumnautica.pl website using the cypress framework.
