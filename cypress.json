@@ -1,0 +1,7 @@
+{
+    "baseUrl":"https://www.centrumnautica.pl",
+    "includeShadowDom": true,
+    "chromeWebSecurity": true,
+    "viewportHeight": 1080,
+    "viewportWidth":1920
+}

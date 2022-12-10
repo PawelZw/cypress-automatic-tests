@@ -1,0 +1,19 @@
+{
+  "name": "cypress-project",
+  "version": "1.0.0",
+  "description": "Cypress automatic tests centrumnautica.pl",
+  "main": "index.js",
+  "scripts": {
+    "open": "npx cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "automatic",
+    "tests"
+  ],
+  "author": "Paweł Zwolicki",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.5.1"
+  }
+}
